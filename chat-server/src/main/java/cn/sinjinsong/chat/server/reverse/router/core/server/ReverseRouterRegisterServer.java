@@ -1,4 +1,4 @@
-package cn.sinjinsong.chat.server.reverse.router.netty.server;
+package cn.sinjinsong.chat.server.reverse.router.core.server;
 
 import lombok.extern.slf4j.Slf4j;
 
